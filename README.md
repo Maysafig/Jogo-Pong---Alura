@@ -10,6 +10,8 @@ Jogo desenvolvido durante curso da [Alura](https://cursos.alura.com.br/course/po
 -   Crie um jogo completo, com animações, controles, sons e placar
 -   Saiba como utilizar em seus projetos um código compartilhado no Github
 
-### [Acesse o jogo](https://maysafig.github.io/Jogo-Pong---Alura/) :video_game:
+## [Acesse o jogo](https://maysafig.github.io/Jogo-Pong---Alura/) :video_game:
+
+### Para movimentar a raquete utilize as setas :arrow_up: e :arrow_down: do seu teclado
 
 ![Image](https://github.com/Maysafig/Jogo-Pong---Alura/blob/main/pong.jpg?raw=true)
